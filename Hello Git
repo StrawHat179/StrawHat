@@ -1,0 +1,6 @@
+public class Gitdemo{
+    public static void mian(String[]agrs){
+    System.out.println("Hello Git");
+    
+    }
+}
